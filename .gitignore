@@ -1,0 +1,5 @@
+# Nunca subir secrets ni keys
+.streamlit/secrets.toml
+__pycache__/
+*.pyc
+.venv/
